@@ -49,7 +49,12 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 
 To setup this project locally(on your device)
 
-- Clone the repository using the following steps
+1. Clone the repository using the following steps
    ```bash 
    git clone git@github.com:mwendwav1789/code-challenges.git
    ```
+2. Navigate to the project
+```bash
+cd your-repo-name
+```
+3. Open the JavaScript files studentGradeGenerator.js and speedDetector.js in your text editor.

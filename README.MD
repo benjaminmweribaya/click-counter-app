@@ -47,14 +47,25 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 
 ## Installation And Setup
 
-To setup this project locally(on your device)
+To setup this project locally (on your device)
 
 1. Clone the repository using the following steps
-   ```bash 
-   git clone git@github.com:mwendwav1789/code-challenges.git
-   ```
+```bash 
+git clone git@github.com:your-git-username/your-repo-name.git
+```
 2. Navigate to the project
 ```bash
 cd your-repo-name
 ```
 3. Open the JavaScript files studentGradeGenerator.js and speedDetector.js in your text editor.
+
+## Usage
+ - Open terminal
+1. For the Student Grade Generator: Run the script and input student marks to get the grade
+```JavaScript
+node studentGradeGenerator.js
+```
+2. For the Speed Detector: Run the script and input car speed to get the demerit points or warning.
+```JavaScript
+node speedDectector.js
+```

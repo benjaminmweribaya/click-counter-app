@@ -69,3 +69,5 @@ node studentGradeGenerator.js
 ```JavaScript
 node speedDectector.js
 ```
+## License
+This project is open source and is available under the MIT license.
